@@ -1,0 +1,25 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: rgb(12, 12, 15);
+    text-align: left;
+    text-decoration: double;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  h2 {
+    color: rgb(12, 12, 15);
+    text-align: center;
+    text-decoration: double;
+  }
+  h3 {
+    color: rgb(12, 12, 15);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  p {
+    color: rgb(22, 21, 21);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
